@@ -1,6 +1,6 @@
 /Reference.docx 
 /Reference.pdf
-.vscode/*
+**/.vscode
 **/.metadata
 **/*.layout
 **/*.o

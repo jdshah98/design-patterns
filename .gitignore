@@ -4,3 +4,7 @@
 **/.metadata
 **/*.layout
 **/*.o
+**/.settings
+**/bin
+**/.classpath
+**/.project
